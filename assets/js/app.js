@@ -1,5 +1,5 @@
-import { APIurl } from "../../module/js/Api.js";
-import { DomElem, DomId } from "../../module/js/Dom.js";
+import { APIurl } from "../module/js/Api.js";
+import { DomElem, DomId } from "../module/js/Dom.js";
 
 const url = "./controller/Contacto.controller.php";
 // ------------------------------------------------------------------

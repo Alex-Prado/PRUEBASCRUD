@@ -1,4 +1,6 @@
 <?php
+header('Access-Control-Allow-Origin: *');
+
 require_once '../model/Contacto.model..php';
 $instance = new Contacto();
 if (isset($_POST['action'])) {
